@@ -39,4 +39,4 @@
 
 ## 相关链接
 
-- [GitHub 上的小组团队](https://github.com/orgs/deepin-community/teams/deepin-qt)
+- [GitHub 上的小组仓库](https://github.com/deepin-community/sig-deepin-qt)
